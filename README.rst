@@ -29,15 +29,17 @@ Artificial Intelligence
 Machine Learning
 -------
 
-* A Comprehensive Guide to Machine Learning - Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang
+* A Comprehensive Guide to Machine Learning - _Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang_
 
-* `1000 Genomes - The 1000 Genomes Project ran between 2008 and 2015, [...] <http://www.1000genomes.org/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Biology/1000-Genomes.yml>`_]
+* Understanding Machine Learning: From Theory to Algorithms - _Shai Shalev-Shwartz, Shai Ben-David_
 
     
 Deep Learning
 ---------------
-        
-*  `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
+       
+* Deep Learning in Neural Networks: An Overview - _Jurgen Schmidhuber_
+
+* Neural Knight: Novice Human Level Performance in a Multiplayer 3D Fighting Game using Computer Vision and a Mixed Input Convolutional and Recurrent Neural Network - _Taha Nasir_
         
 *  `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
         
@@ -52,9 +54,13 @@ Clustering
 Data Science
 ----------------
         
-* Foundations of Data Science - Avrim Blum, John Hopcroft, and Ravindran Kannan
+* Foundations of Data Science - _Avrim Blum, John Hopcroft, and Ravindran Kannan_
         
-* Data Science Cheatsheet - Maverick Lin
+* Data Science Cheatsheet - _Maverick Lin_
+
+* Mathematics for Machine Learning - _Garrett Thomas_
+
+* Introduction to Operations Research - _Juraj Stacho_
         
 * |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
         
@@ -63,7 +69,7 @@ Data Science
 Probability & Statistics
 --------------
         
-* |OK_ICON| `Bruteforce Database <https://github.com/duyetdev/bruteforce-database>`_
+* Probability Cheatsheet - _William Chen_
         
 * |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_
 
@@ -71,11 +77,14 @@ Probability & Statistics
 Python
 ------------
         
-* |OK_ICON| `38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their [...] <https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset>`_
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow - _Aurélien Géron_
+
+* Python for Data Analysis, 2nd Edition - _Wes McKinney_
+
+* Python For Data Science Matplotlib Cheat Sheet
+
+* Python for Data Analysis (slides) - _Katia Oleinik_
         
-* |OK_ICON| `AQUASTAT - Global water resources and uses <http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en>`_
-        
-* |OK_ICON| `BODC - marine data of ~22K vars <https://www.bodc.ac.uk/data/>`_
 
     
 Matlab
