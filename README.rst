@@ -29,70 +29,74 @@ Artificial Intelligence
 Machine Learning
 -------
 
-* A Comprehensive Guide to Machine Learning - _Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang_
+* A Comprehensive Guide to Machine Learning - *Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang*
 
-* Understanding Machine Learning: From Theory to Algorithms - _Shai Shalev-Shwartz, Shai Ben-David_
+* Understanding Machine Learning: From Theory to Algorithms - *Shai Shalev-Shwartz, Shai Ben-David*
 
+* Machine Learning for Humans - *Vishal Maini, Samer Sabri*
+
+* The Hundred-Page Machine Learning Book - *Andriy Burkov*
     
 Deep Learning
 ---------------
        
-* Deep Learning in Neural Networks: An Overview - _Jurgen Schmidhuber_
+* Deep Learning in Neural Networks: An Overview - *Jurgen Schmidhuber*
 
-* Neural Knight: Novice Human Level Performance in a Multiplayer 3D Fighting Game using Computer Vision and a Mixed Input Convolutional and Recurrent Neural Network - _Taha Nasir_
+* Deep Learning - *Ian Goodfellow, Yoshua Bengio, Aaron Courville*
+
+* Neural Knight: Novice Human Level Performance in a Multiplayer 3D Fighting Game using Computer Vision and a Mixed Input Convolutional and Recurrent Neural Network - *Taha Nasir*
         
-*  `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
         
 
 Clustering
 ---------------
         
-* |OK_ICON| `AMiner Citation Network Dataset <http://aminer.org/citation>`_
-        
-* |OK_ICON| `CrossRef DOI URLs <https://archive.org/details/doi-urls>`_
+* Clustering - *Henry Lin*
+
     
 Data Science
 ----------------
         
-* Foundations of Data Science - _Avrim Blum, John Hopcroft, and Ravindran Kannan_
-        
-* Data Science Cheatsheet - _Maverick Lin_
+* Foundations of Data Science - *Avrim Blum, John Hopcroft, and Ravindran Kannan*
 
-* Mathematics for Machine Learning - _Garrett Thomas_
+* Mathematics for Machine Learning - *Garrett Thomas*
 
-* Introduction to Operations Research - _Juraj Stacho_
+* Introduction to Operations Research - *Juraj Stacho*
+
+* Data Science Cheatsheet - *Maverick Lin*
         
-* |OK_ICON| `CAIDA Internet Datasets <http://www.caida.org/data/overview/>`_
         
 
     
 Probability & Statistics
 --------------
         
-* Probability Cheatsheet - _William Chen_
+* Probability Cheatsheet - *William Chen*
         
-* |OK_ICON| `Challenges in Machine Learning <http://www.chalearn.org/>`_
 
     
 Python
 ------------
         
-* Hands-On Machine Learning with Scikit-Learn and TensorFlow - _Aurélien Géron_
+* Hands-On Machine Learning with Scikit-Learn and TensorFlow - *Aurélien Géron*
 
-* Python for Data Analysis, 2nd Edition - _Wes McKinney_
+* Python for Data Analysis, 2nd Edition - *Wes McKinney*
+
+* Python for Data Analysis (slides) - *Katia Oleinik*
 
 * Python For Data Science Matplotlib Cheat Sheet
-
-* Python for Data Analysis (slides) - _Katia Oleinik_
         
 
     
 Matlab
 ---------
-        
-* |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
-        
-* |OK_ICON| `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
+* Mastering Machine Learning
+
+* Introducing Deep Learning with MATLAB
+
+* Practical Deep Learning Examples with MATLAB
+
+* Reinforcement Learning with MATLAB
 
     
 Image Processing
@@ -122,7 +126,7 @@ Big Data
 Links
 -------
         
-* |OK_ICON| `Blockmodo Coin Registry - A registry of JSON formatted information files [...] <https://github.com/Blockmodo/coin_registry>`_
+* |OK_ICON| `A Complete Python Tutorial to Learn Data Science from Scratch - A registry of JSON formatted information files [...] <https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/>`_
         
 * |OK_ICON| `CBOE Futures Exchange <http://cfe.cboe.com/market-data/>`_
         
