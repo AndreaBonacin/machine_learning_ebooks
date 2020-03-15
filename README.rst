@@ -109,10 +109,10 @@ Image Processing
         
 * 
     
-Big Data
+GPU computing
 ------
         
-* 
+* Professional CUDA C Programming - *John Cheng, Max Grossman, Ty McKercher*
 
 Links
 -------
