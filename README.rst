@@ -127,7 +127,7 @@ Videos
 
 
 .. image:: https://az743702.vo.msecnd.net/cdn/kofi1.png?v=0
-   :width: 400
+   :width: 50
    :alt: Buy Me a Coffee at ko-fi.com
    :target: https://ko-fi.com/andreabonacin
         
